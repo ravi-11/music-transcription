@@ -1,4 +1,5 @@
 Nathaniel Fruchter / nhf 
+#It is an amazing project with having fun
 
 Music Transcription: A 112 Term Project
 ######################################
